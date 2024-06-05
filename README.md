@@ -39,20 +39,7 @@ Navigate to login.php to log in to the application.
 After logging in, you will be redirected to the dashboard (dashboard.php).
 From the dashboard, you can upload new notes, search for notes, and delete your own notes.
 
-**Sample Data**
 
-The NoteSync.sql file includes sample data:
-
-5 users with hashed passwords.
-5 notes associated with the sample users.
-
-To use these credentials:
-
-testuser1: password1
-testuser2: password2
-testuser3: password3
-testuser4: password4
-testuser5: password5
 
 # License
 
